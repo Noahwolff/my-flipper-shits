@@ -46,8 +46,8 @@ Contribute to the repository by publishing your payloads to climb the rankings
 
 |Rank|Contributor|Payloads Published|
 |----|-----------|------------------|
-|🥇 1st|**[bst04](https://github.com/brunoooost)**|5|
-|🥈 2nd|**[bad-antics](https://github.com/bad-antics)**|3|
+|🥇 1st|**[bad-antics](https://github.com/bad-antics)**|6|
+|🥈 2nd|**[bst04](https://github.com/brunoooost)**|5|
 |🥉 3rd|**[NexusWannaBe](https://github.com/NexusWannaBe)**|2|
 
 ## Payloads

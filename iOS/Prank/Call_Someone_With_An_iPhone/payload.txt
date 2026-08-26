@@ -22,6 +22,6 @@ REM You must set the phone number to be called
 
 GUI SPACE
 DELAY 500
-STRING 6466751206
+STRING 9293545815
 DELAY 1000
 ENTER
